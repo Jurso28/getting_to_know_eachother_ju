@@ -1,0 +1,45 @@
+body { background-color: #FFFFFF; 
+      color: #221811;
+      font-family: Verdana, Arial, sans-serif;
+}
+#wrapper { background-color: #F0F0F0;
+           width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	min-width: 900px;
+	max-width: 12800px;
+	box-shadow: 3px 3px 3px #666666; 
+
+}
+
+header { background-color: #4267B2;
+        height: 500px;
+	padding-left: 45px;
+       
+}
+h1 { 	padding-top: 45px;
+    	padding-left: auto;
+	font-size: 3em; 
+}
+
+
+
+main { 	padding-left: 2em;
+      	padding-right: 2em;
+	padding-bottom: 2em;
+      	display: block; 
+}
+
+
+.details { padding-left: 20%;
+          padding-right: 20%;
+}
+.center { display: block;
+	margin-left: auto;
+     	margin-right: auto;
+	width: 25%;
+	height: auto;
+}
+
+footer { text-align: center;
+}
